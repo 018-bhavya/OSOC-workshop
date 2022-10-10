@@ -1,0 +1,11 @@
+command            usage
+1. git add         moves the changes from the working directory to the staging area
+2. git branch      shows the list of all the branches 
+3. git checkout    when used with a branch name it is used to navigate to that branch
+4. git clean       removes the untarcked files from the working directory
+5. git clone       it creates a copy of an existing git repository
+6. git commit      takes the staged snapshot and commits it to the project history
+7. git config      it is a convenient way to set configuration options for Git installation
+8. git fetch       it downloads a branch from another repository along with all of the associated commits and files
+9. git init        initializes a new Git repository
+10. git log        it provides us with the previous revisions of a project
